@@ -10,9 +10,12 @@
 /*--Start Main Styling --*/
 
 body{
-    background: #f7f7f7;
+    background-image:url(../img/bg.jpg);
+    max-width:100%;
     color:#111111;
     font-family:'Merriweather', serif;
+    font-weight:400;
+    font-style:normal;
 
 }
 section,header{
