@@ -33,7 +33,6 @@ p,blockquote {
 
 h1{
     font-size: 5.653rem;
-    font-family: 'Cinzel', serif;
     margin-top: 5rem;
     padding-bottom:0;
 }
@@ -44,11 +43,8 @@ h2{
 }
 
 blockquote{
-    font-size:1.4rem;
-    font-style:italic;
-    color:black;
-    hanging-punctuation: first;
-    text-indent:-0.4rem;
+    font-size: 5.653rem;
+    font-family: Cinzel, serif; 
 }
 blockquote cite{
     padding: 1rem 0;
