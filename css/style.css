@@ -12,12 +12,12 @@
 body{
     background: #f7f7f7;
     color:#333333;
-    font-family: sans-serif;
+    font-family:'Raleway', sans-serif;
 
 }
 section,header{
     width:80%;
-    max-width:700px;
+    max-width:1000px;
     margin:auto;
 }
 header,section{
