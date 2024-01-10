@@ -49,20 +49,6 @@ blockquote{
     font-weight:600;
     font-family: Cinzel, serif; 
 }
-blockquote cite{
-    padding: 1rem 0;
-    font-style: normal;
-   color:#333333;
-
-#header{
-    margin-top: 5rem;
-    margin-bottom: 2rem;
-}
-
-}
-.leader{
-    text-transform:uppercase;
-}
 
 /*--Styling Links--*/
 
@@ -114,58 +100,13 @@ nav a:hover {
     color: #66624E;
     transition: all 0.3s ease-in-out;
 }
-/*--Style the CSS Grid--*/
-.gridimage{
-    display: grid;
-    column-gap: 10px;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-}
-
-/*-- Styling the Table--*/
-table{
-    margin:auto;
-    display:table;
-    border-collapse:collapse;
-    border-spacing: 2px;
-    margin-bottom:2rem;
-    width:100%;
-    }
-
-    caption{
-        margin: 1.5em 0;
-        text-transform:uppercase;
-        letter-spacing:0.5px;
-    }
-
-    th{
-        text-transform:uppercase;
-        font-weight:normal;
-        text-align:left;
-        color:#f7f7f7;
-        background:black;
-    }
-    th,td{
-        padding:+0.4em;
-    }
-
-    table, td{
-        background: white;
-        border: 2px solid black;
-    }
-    /*-- Image Styling--*/
+ 
+/*-- Image Styling--*/
     img{
         display: block;
         margin-bottom:2rem;
         width:100%;
         padding:0;
-    }
-    /*-- Styling the Horizontal Rule--*/
-    hr{
-        margin: 1rem 0;
-        height: 1px;
-        background-color:black;
-        color:black;
-        border: none;
     }
 
 /*--Styling the Footer--*/
@@ -182,4 +123,7 @@ footer {
     max-width:80% 
     } 
     
-    
+#header{
+        margin-top: 5rem;
+        margin-bottom: 2rem;
+}
