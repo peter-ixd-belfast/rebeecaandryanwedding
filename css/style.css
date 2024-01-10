@@ -18,15 +18,13 @@ body{
     font-style:normal;
 
 }
-section,header{
+section{
     width:80%;
-    max-width:1000px;
+    background: #B3AC88;
+    max-width:900px;
     margin:auto;
 }
-header,section{
-    margin-bottom: 2rem;
 
-}
 p {
     padding: 0.5rem 0;
     line-height: 1.3;
