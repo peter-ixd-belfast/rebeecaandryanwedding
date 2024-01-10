@@ -25,7 +25,9 @@ section{
     margin:auto;
     padding: 1.5rem; 
 }
-
+div{
+    padding: 1.5rem;
+}
 p {
     padding: 0.5rem 0;
     line-height: 1.3;
