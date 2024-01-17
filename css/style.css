@@ -36,14 +36,14 @@ p {
 
 
 h1{
-    font-size: 5.653rem;
+    font-size: 5.61rem;
     font-weight: 400;
     margin-top: 5rem;
     padding-bottom:0;
 }
 
 h2{
-    font-size: 1.999rem;
+    font-size: 1.777rem;
     text-align: center;
     margin:auto;
 }
@@ -174,22 +174,18 @@ footer {
     
     }
     h1{
-        font-size: 4.236rem;
+        font-size: 3.157rem;
     }
       h2{
-        font-size: 2.618rem;
+        font-size: 1.333rem;
       }
-      h3{
-        font-size: 1.618rem;
-      }
-      h4{
-        font-size: 1.25rem;
-      }
+
+    
     footer{
         width:100%;
     }
-
     }
+    
 
     /*--Styling For Phone Screens--*/
 @media only screen and (max-width:480px){
@@ -234,20 +230,14 @@ footer {
       
       }
       h1{
-          font-size: 4.236rem;
+          font-size: 3.157rem;
       }
   
       h2{
-          font-size: 2.618rem;
+          font-size: 1.333rem;
   
       }
-      h3{
-          font-size:1.618rem;
-      }
-      h4{
-          font-size: 1.25rem;
-      }
-
+    
 footer{
     width: 100%;
 }
