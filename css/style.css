@@ -49,7 +49,7 @@ h2{
 }
 
 blockquote{
-    font-size: 5.653rem;
+    font-size: 5.61rem;
     font-weight:600;
     font-family: Cinzel, serif; 
 }
@@ -184,6 +184,9 @@ footer {
     footer{
         width:100%;
     }
+    blockquote{
+        font-size: 3.157rem;
+    }
     }
     
 
@@ -240,6 +243,9 @@ footer {
     
 footer{
     width: 100%;
+}
+blockquote{
+    font-size: 3.157rem;
 }
 
     }
