@@ -79,7 +79,7 @@ nav{
     background-color:#B3AC88;
     opacity: 85%;
     padding: 1.5rem 0;
-    font-size: 0.75rem;
+    font-size: 1 rem;
 }
 
 nav ul{
@@ -155,10 +155,10 @@ footer {
         left: 0;
         margin: 0;
         width: 100%;
-        background-color:#003333;
+        background-color: #B3AC88;
         opacity: 85%;
         padding: 1.5rem 0;
-        font-size: 0.85rem;
+        font-size: 0.75rem;
     }
     nav ul{
         text-align: center;
@@ -210,10 +210,10 @@ footer {
           left: 0;
           margin: 0;
           width: 100%;
-          background-color:#003333;
+          background-color:#B3AC88;
           opacity: 85%;
           padding: 1rem 0;
-          font-size: 0.85rem;
+          font-size: 0.75rem;
       }
       nav ul{
           text-align: center;
