@@ -21,6 +21,8 @@ body{
 section{
     width:80%;
     background: #B3AC88;
+    border-radius: 16px;
+    box-shadow: 4px 8px #8f8a6d;
     max-width:900px;
     margin:auto;
     padding: 1.5rem; 
@@ -247,5 +249,12 @@ footer{
 blockquote{
     font-size: 3.157rem;
 }
+div{
+    padding: 0.5rem;
+}
+section{
+    padding:0.5rem;
+}
+
 
     }
