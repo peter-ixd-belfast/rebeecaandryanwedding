@@ -131,3 +131,119 @@ footer {
         margin-top: 5rem;
         margin-bottom: 2rem;
 }
+
+    /*--Styling for Tablet Screens--*/
+    @media only screen and (max-width:768px){
+        body{
+            max-width: 100%;
+          font-size: 1rem;
+        }
+        section,p{
+          width:80%;
+          max-width:600px;
+          margin:auto;
+          line-height:1.5em;
+      }
+    section{
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    
+    }
+    nav{
+        position: absolute;
+        top: 0;
+        left: 0;
+        margin: 0;
+        width: 100%;
+        background-color:#003333;
+        opacity: 85%;
+        padding: 1.5rem 0;
+        font-size: 0.85rem;
+    }
+    nav ul{
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+    nav ul li {
+        display: inline-block;
+        padding: 0.5rem;
+        background: none;
+    
+    
+    }
+    h1{
+        font-size: 4.236rem;
+    }
+      h2{
+        font-size: 2.618rem;
+      }
+      h3{
+        font-size: 1.618rem;
+      }
+      h4{
+        font-size: 1.25rem;
+      }
+
+    }
+
+    /*--Styling For Phone Screens--*/
+@media only screen and (max-width:480px){
+        body{
+          max-width: 100%;
+          font-size: 1rem;
+        }
+        section,p{
+          width:80%;
+          max-width: 400px;
+          margin:auto;
+          line-height:1.5em;
+      }
+  section{
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+      
+      }
+      nav{
+          position: absolute;
+          top: 0;
+          left: 0;
+          margin: 0;
+          width: 100%;
+          background-color:#003333;
+          opacity: 85%;
+          padding: 1rem 0;
+          font-size: 0.85rem;
+      }
+      nav ul{
+          text-align: center;
+          text-transform: uppercase;
+          letter-spacing: 1px;
+      }
+      nav ul li {
+          
+          display: inline-block;
+          padding: 0.5rem;
+          background: none; 
+          
+      
+      
+      }
+      h1{
+          font-size: 4.236rem;
+      }
+  
+      h2{
+          font-size: 2.618rem;
+  
+      }
+      h3{
+          font-size:1.618rem;
+      }
+      h4{
+          font-size: 1.25rem;
+      }
+
+
+
+    }
