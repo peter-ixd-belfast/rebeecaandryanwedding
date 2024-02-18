@@ -45,7 +45,14 @@ h1{
 }
 
 h2{
-    font-size: 1.777rem;
+    font-size: 3.257rem;
+    font-weight:600;
+    font-family: Cinzel, serif; 
+    text-align: center;
+    margin:auto;
+}
+h3{
+    font-size:1.777rem;
     text-align: center;
     margin:auto;
 }
