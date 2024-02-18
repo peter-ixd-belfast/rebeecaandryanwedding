@@ -62,7 +62,7 @@ h3{
 }
 
 h4{
-    font-size:1.333rem;
+    font-size:1rem;
     text-align: center;
     margin:auto;
 
@@ -71,7 +71,7 @@ h4{
 
 blockquote{
     font-size: 5.61rem;
-    font-weight:800;
+    font-weight:700;
     font-family: Cinzel, serif; 
 }
 
@@ -161,7 +161,7 @@ footer {
           font-size: 1rem;
         }
         section,p{
-          width:80%;
+          width:90%;
           max-width:768px;
           margin:auto;
           line-height:1.5em;
@@ -198,10 +198,22 @@ footer {
     h1{
         font-size: 3.157rem;
     }
-      h2{
-        font-size: 1.333rem;
-      }
-
+    h2{
+        font-size: 1.777rem;
+        font-weight:600;
+        font-family: Cinzel, serif; 
+        text-align: center;
+        margin:auto;
+        padding: 1rem;
+    }
+    h3{
+        font-size:1.333rem;
+        font-weight:600;
+        font-family: Cinzel, serif; 
+        text-align: center;
+        margin:auto;
+        padding: 0.5rem;
+    }
     
     footer{
         width:100%;
@@ -219,7 +231,7 @@ footer {
           font-size: 1rem;
         }
         section,p{
-          width:80%;
+          width:90%;
           max-width: 480px;
           margin:auto;
           line-height:1.5em;
@@ -257,12 +269,24 @@ footer {
       h1{
           font-size: 3.157rem;
       }
-  
       h2{
-          font-size: 1.333rem;
+        font-size: 1.777rem;
+        font-weight:600;
+        font-family: Cinzel, serif; 
+        text-align: center;
+        margin:auto;
+        padding: 1rem;
+    }
+    h3{
+        font-size:1.333rem;
+        font-weight:600;
+        font-family: Cinzel, serif; 
+        text-align: center;
+        margin:auto;
+        padding: 0.5rem;
+    }
   
-      }
-    
+   
 footer{
     width: 100%;
 }
