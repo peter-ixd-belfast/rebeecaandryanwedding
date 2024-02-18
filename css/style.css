@@ -268,7 +268,7 @@ footer {
       
       }
       h1{
-          font-size: 3.157rem;
+          font-size: 2.369rem;
       }
       h2{
         font-size: 1.777rem;
@@ -292,7 +292,7 @@ footer{
     width: 100%;
 }
 blockquote{
-    font-size: 3.157rem;
+    font-size: 2.369rem;
 }
 div{
     padding: 0.5rem;
@@ -300,6 +300,9 @@ div{
 section{
     padding:0.5rem;
 }
-
+#header{
+    margin-top: 8rem;
+    margin-bottom: 2rem;
+}
 
     }
