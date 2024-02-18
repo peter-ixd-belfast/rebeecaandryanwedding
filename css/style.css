@@ -229,7 +229,7 @@ footer {
 @media only screen and (max-width:480px){
         body{
           max-width: 100%;
-          font-size: 1rem;
+          font-size: 0.9rem;
         }
         section,p{
           width:90%;
