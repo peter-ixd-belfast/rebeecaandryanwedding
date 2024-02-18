@@ -46,7 +46,7 @@ h1{
 
 h2{
     font-size: 2.369rem;
-    font-weight:400;
+    font-weight:600;
     font-family: Cinzel, serif; 
     text-align: center;
     margin:auto;
@@ -54,6 +54,7 @@ h2{
 }
 h3{
     font-size:1.777rem;
+    font-weight:600;
     font-family: Cinzel, serif; 
     text-align: center;
     margin:auto;
@@ -70,7 +71,7 @@ h4{
 
 blockquote{
     font-size: 5.61rem;
-    font-weight:600;
+    font-weight:800;
     font-family: Cinzel, serif; 
 }
 
