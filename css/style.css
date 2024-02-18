@@ -41,7 +41,7 @@ h1{
     font-size: 5.61rem;
     font-weight: 400;
     margin-top: 5rem;
-    padding-bottom:0;
+    padding: 1rem
 }
 
 h2{
@@ -50,12 +50,14 @@ h2{
     font-family: Cinzel, serif; 
     text-align: center;
     margin:auto;
+    padding: 1rem;
 }
 h3{
     font-size:1.777rem;
     font-family: Cinzel, serif; 
     text-align: center;
     margin:auto;
+    padding: 0.5rem;
 }
 
 h4{
