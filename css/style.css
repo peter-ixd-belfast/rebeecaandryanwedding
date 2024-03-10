@@ -159,8 +159,8 @@ footer {
 
 li{
     list-style-type: none;
+    text-align: center;
 }
-
     /*--Styling for Tablet Screens--*/
     @media only screen and (max-width:768px){
         body{
