@@ -157,6 +157,9 @@ footer {
         margin-bottom: 2rem;
 }
 
+li{
+    list-style-type: none;
+}
 
     /*--Styling for Tablet Screens--*/
     @media only screen and (max-width:768px){
