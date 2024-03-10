@@ -166,7 +166,7 @@ li{
 
 
     /*--Styling for Tablet Screens--*/
-    @media only screen and (max-width:768px){
+    @media only screen and (max-width:821px){
         body{
             max-width: 100%;
           font-size: 1rem;
@@ -230,7 +230,7 @@ li{
         width:100%;
     }
     blockquote{
-        font-size: 2.999rem;
+        font-size: 3.157rem;
     }
     }
     
@@ -311,7 +311,7 @@ section{
     padding:0.5rem;
 }
 #header{
-    margin-top: 8rem;
+    margin-top: 9rem;
     margin-bottom: 2rem;
 }
 
