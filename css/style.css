@@ -232,6 +232,11 @@ li{
     blockquote{
         font-size: 3.157rem;
     }
+
+    #header{
+        margin-top: 6rem;
+        margin-bottom: 2rem;
+    }
     }
     
 
