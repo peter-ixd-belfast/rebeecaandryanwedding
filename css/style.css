@@ -157,10 +157,14 @@ footer {
         margin-bottom: 2rem;
 }
 
+/*-- Styling the List --*/
 li{
     list-style-type: none;
     text-align: center;
+    line-height: 1.4rem;
 }
+
+
     /*--Styling for Tablet Screens--*/
     @media only screen and (max-width:768px){
         body{
