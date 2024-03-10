@@ -10,9 +10,10 @@
 /*--Start Main Styling --*/
 
 body{
-    background-image:url(../img/bg.jpg);
+    background-color: #CFE4D5;
+    /*--background-image:url(../img/bg.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;--*/
     max-width:100%;
     color:#111111;
     font-family:'Merriweather', serif;
