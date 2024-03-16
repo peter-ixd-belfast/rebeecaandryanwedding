@@ -87,9 +87,9 @@ a{
 }
 
 a:hover{
-    color: #E0D8AB;
+    color: #CFE4D5;
     transition: all 0.3s ease-in-out;
-    border-bottom: 1px dotted;
+    border-bottom: none;
 
 }
 
@@ -126,7 +126,7 @@ nav a {
 
 nav a:hover {
     border-bottom: none;
-    color: #E0D8AB;
+    color:#CFE4D5;
     transition: all 0.3s ease-in-out;
 }
  
