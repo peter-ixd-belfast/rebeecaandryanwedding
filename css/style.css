@@ -11,8 +11,8 @@
 
 body{
     background-color: #CFE4D5;
-    /*--background-image:url(../img/bg.jpg);
-    background-size: cover;
+   background-image:url(../img/bgalternate.jpg);
+     /*--background-size: cover;
     background-repeat: no-repeat;--*/
     max-width:100%;
     color:#111111;
@@ -23,7 +23,7 @@ body{
 }
 section{
     width:80%;
-    background: #B3AC88;
+    background: #a6b6aa;
     border-radius: 16px;
     box-shadow: 8px 12px 12px #8f8a6d;
     max-width:900px;
