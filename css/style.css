@@ -157,6 +157,10 @@ footer {
         margin-bottom: 2rem;
 }
 
+#spit{
+    padding-top: 0.5rem;
+    padding-bottom: 1.5rem;
+}
 .links{
     font-size:1.3333rem;
     font-weight:600;
