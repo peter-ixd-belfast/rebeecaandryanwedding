@@ -196,13 +196,10 @@ li{
    grid-template-columns: auto auto auto; 
 }
 
-.schedule-grid-item{
-    
-}
-.schedule{
+.scheduleimg{
     display: block;
     /*--margin-bottom:2rem;--*/
-max-width:60%;
+max-width:50px;
     padding:0;
 }
 
