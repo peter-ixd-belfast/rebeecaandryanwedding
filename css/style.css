@@ -194,6 +194,7 @@ li{
 .schedule-grid{
    display: inline-grid;
    max-width: 80%;
+   justify-content: center;
    grid-template-columns: 30% 30% 30%;
    
 }
@@ -201,7 +202,7 @@ li{
 .scheduleimg{
     display: block;
     margin-bottom:0;
-    max-width:50%;
+    max-width:80%;
     padding:0;
 }
 
