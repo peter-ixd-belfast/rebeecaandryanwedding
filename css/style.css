@@ -184,7 +184,9 @@ li{
 
 /*-- Schedule Grid Styling --*/
 .schedule-grid{
-   display: inline-grid; 
+   display: inline-grid;
+   grid-template-columns: auto auto auto; 
+   
 }
 
 
