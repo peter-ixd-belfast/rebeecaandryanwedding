@@ -73,6 +73,14 @@ h4{
 
 }
 
+h5{
+    font-size:1rem;
+    font-weight:600;
+    font-family: Cinzel, serif; 
+    text-align: center;
+    margin:auto; 
+}
+
 blockquote{
     font-size: 5.61rem;
     font-weight:700;
