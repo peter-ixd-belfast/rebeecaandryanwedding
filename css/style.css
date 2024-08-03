@@ -269,7 +269,13 @@ li{
         margin:auto;
         padding: 0.5rem;
     }
-    
+    h5{
+        font-size:1rem;
+        font-weight:600;
+        font-family: Cinzel, serif; 
+        text-align: center;
+        margin:auto; 
+    }
     footer{
         width:100%;
     }
@@ -353,7 +359,13 @@ li{
         margin:auto;
         padding: 0.5rem;
     }
-  
+    h5{
+        font-size:0.85rem;
+        font-weight:600;
+        font-family: Cinzel, serif; 
+        text-align: center;
+        margin:auto; 
+    }
    
 footer{
     width: 100%;
