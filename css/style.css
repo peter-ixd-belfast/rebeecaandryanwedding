@@ -194,6 +194,7 @@ li{
 .schedule-grid{
    display: inline-grid;
    max-width: 80%;
+   margin: auto;
    justify-content: center;
    grid-template-columns: 30% 30% 30%;
    
