@@ -193,6 +193,7 @@ li{
 /*-- Schedule Grid Styling --*/
 .schedule-grid{
    display: inline-grid;
+   max-width: 80%;
    grid-template-columns: 40% 30% 30%;
    
 }
